@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @LucasBF00
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi there
 
-<!---
-LucasBF00/LucasBF00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m Lucas,
+
+- 👨🏻‍🎓 I’m graduating in Aeronautical Engineering
+- 📖 I’m currently learning Python, PL/SQL and ETL
+- 🏎️ I am passionate about motorsport, engineering and technology in general
+- 🔭 I'm always looking for new experiences, learning something new and getting to know new areas, projects and people
+- 📫 How to reach me: lucasbfernandes00@gmail.com
